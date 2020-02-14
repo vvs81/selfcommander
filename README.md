@@ -1,2 +1,2 @@
-# selfcommander
-Script Repository for Repetitive Tasks
+# yesboss
+Helper Scripts for Common CI/Dev Tasks
